@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 2500,
+      "createdAt": "2023-03-27T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Aluguel",
+      "type": "outcome",
+      "category": "Consumo",
+      "price": 1500,
+      "createdAt": "2023-03-27T19:30:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-03-29T19:24:44.505Z"
+    },
+    {
+      "id": 4,
+      "description": "Seguro",
+      "type": "income",
+      "category": "Renda",
+      "price": 2000,
+      "createdAt": "2023-03-29T19:24:44.505Z"
+    },
+    {
+      "description": "Loja",
+      "category": "Venda",
+      "price": 130,
+      "type": "income",
+      "createdAt": "2023-04-05T21:32:17.489Z",
+      "id": 5
+    },
+    {
+      "description": "Seguro do Carro",
+      "category": "Consumo",
+      "price": 201.9,
+      "type": "outcome",
+      "createdAt": "2023-04-05T21:54:42.218Z",
+      "id": 6
+    },
+    {
+      "description": "Conta de luz",
+      "category": "Consumo",
+      "price": 290,
+      "type": "outcome",
+      "createdAt": "2023-04-05T22:08:04.802Z",
+      "id": 7
+    }
+  ]
+}
